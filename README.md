@@ -21,3 +21,7 @@ pnpm dev
 # or
 bun dev
 ```
+
+Running on stackblitz:
+
+- `npm i && npx next dev`
